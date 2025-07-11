@@ -1,0 +1,15 @@
+
+	{
+		"userName": "practice",
+		"password" : "SuperSecretPassword!",
+		"day" : "8",
+		"recipientname":"jayamma",
+		"recipientemail": "jayamma@gmail.com",
+		"recipientPhoneNo": "9567181919",
+		"name": "harsha",
+		"email": "harsha@gmail.com",
+		"number": "6301823103",
+		"address": "hyderabad",
+		"pincode": "500081",
+		"msg": "happy birthday"
+	}
